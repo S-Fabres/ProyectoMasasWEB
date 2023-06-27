@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Inicio"  description="">
+    <siteMapNode url="AgregarMasa.aspx" title="Agregar Masa"  description="" />
+    <siteMapNode url="VerMasas.aspx" title="Ver masas"  description="" />
+    <siteMapNode url="ModificarMasa.aspx" title="Modificar masa"  description="" />
+    <siteMapNode url="IngresarReserva.aspx" title="Ingresar Reserva"  description="" />
+    <siteMapNode url="MostrarReservas.aspx" title="Mostrar Reservas"  description="" />
+    <siteMapNode url="ModificarReserva.aspx" title="Modificar Reserva"  description="" />
+  </siteMapNode>
+</siteMap>
